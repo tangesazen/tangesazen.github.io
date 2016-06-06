@@ -17,7 +17,10 @@
                     "archiveFileName": "duo_board_v011.zip",
                     "checksum": "SHA-256:64039719B008DDF79743C71F7ED108A6A972E0B8A3F62B9D4769BF930FB8D408",
                     "size": "5610622",
-                    "boards": {"name": "RedBear Duo"},
+                    "boards":
+                    [
+                        {"name": "RedBear Duo"}
+                    ]
                     "toolsDependencies": 
                     [
                         {
