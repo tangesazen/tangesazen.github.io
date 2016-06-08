@@ -1,6 +1,6 @@
 # tangesazen.github.io
 
-I slightly modified the RedBear Duo (v0.2.9) and Digistump (v1.0.2) json files to work with the EclipseArduinoPlugin.
+I slightly modified the RedBear Duo (v0.2.9) and Digistump (v1.0.2) json files to work with the [arduino-eclipse-plugin](https://github.com/jantje/arduino-eclipse-plugin).
 
 To add them to Preferences => Arduino => Locations, use:
 
